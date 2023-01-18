@@ -1,0 +1,30 @@
+.bont{
+    width: 100%;
+    height: 300px;
+    background: url(image/download\ \(1\).jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100% ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+p{
+    font-weight: bold;
+}
+footer{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    color: white;
+}
+ul li{
+    display: flex;
+    text-decoration: none;
+}
+ul li:hover{
+    color: rgb(255, 187, 0);
+}
+h5{
+    color: rgb(255, 187, 0);
+}
